@@ -1,2 +1,6 @@
 add and remove users
-cahnge th roles
+change the roles
+
+Manage the database
+
+Modify the new feature
