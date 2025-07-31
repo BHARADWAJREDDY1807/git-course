@@ -1,6 +1,6 @@
-nadd and remove users
+add and remove users
 change the roles
-Manage the database
+Manage the database connection
 
 Modify the new feature
 modified the file
